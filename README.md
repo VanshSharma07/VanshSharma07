@@ -1,4 +1,3 @@
-[
 
 ```markdown
 # ⚡️ God Mode: Activated ⚡️
