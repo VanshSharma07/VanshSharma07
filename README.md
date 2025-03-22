@@ -7,7 +7,7 @@
 
 </div>
 
-<img src="https://source.unsplash.com/1600x400/?futuristic,cyberpunk,technology" alt="Futuristic Banner" />
+<img src="https://i.imgur.com/dZlvEkv.png" alt="Futuristic Banner" />
 
 <div align="center">
 
