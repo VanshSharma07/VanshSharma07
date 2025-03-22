@@ -1,4 +1,5 @@
-# ⚡️ God Mode: Activated ⚡️
+```markdown
+# Hello World 👋
 
 <div align="center">
   
@@ -6,18 +7,18 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Software+Architect;Problem+Solver;Innovation+Engineer;Digital+Alchemist)](https://git.io/typing-svg)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&card_width=500px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VanshSharma07&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&card_width=500px" alt="GitHub Stats" />
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=radical&hide_border=true&mode=weekly&fire=33DD77)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=VanshSharma07&theme=radical&hide_border=true&mode=weekly&fire=33DD77)](https://git.io/streak-stats)
 </div>
 
 ## 🌌 System Overview
 
 ```typescript
 class Developer {
-  name: string = "YOUR_NAME";
+  name: string = "Vansh Bargotra";
   title: string = "Software Engineer / Architect";
-  location: string = "LOCATION";
+  location: string = "Jammu, Jammu & Kashmir";
   specialization: string[] = [
     "Full-Stack Development",
     "Software Architecture",
@@ -91,10 +92,10 @@ gantt
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSharma07&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
       </td>
       <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOURUSERNAME&theme=radical" alt="GitHub Profile Details" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VanshSharma07&theme=radical" alt="GitHub Profile Details" />
       </td>
     </tr>
   </table>
@@ -116,44 +117,4 @@ I approach software development as a craft that requires both technical precisio
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURPROFILE)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOURHANDLE)
-[![Personal Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOURWEBSITE.com)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/YOURPROFILE)
-
-</div>
-
-## 📊 System Metrics
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=radical&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
-</div>
-
-## 📫 Communication Protocols
-
-<div align="center">
-  
-  💼 **Professional Inquiries**: [your.email@example.com](mailto:your.email@example.com)
-  
-  📡 **Open Source Collaborations**: Open an issue on the relevant repository
-  
-  🔮 **Mentorship Requests**: Reach out via LinkedIn with specific areas of interest
-  
-</div>
-
-## 🔄 Deployment Status
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph" />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
-
----
-
-<div align="center">
-  
-  *"The universe is made of stories, not of atoms."* — Muriel Rukeyser
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,19,21,25&height=100&section=footer)
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](
