@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://source.unsplash.com/1600x400/?cyberpunk,futuristic,tech" alt="Futuristic Banner"/>
+  <img src="https://i.imgur.com/FeJvB05.jpg" alt="Futuristic Banner"/>
   <h1>VANSH BARGOTRA</h1>
   <h3>[ FULL-STACK DEVELOPER | AI & ML SPECIALIST | INNOVATOR ]</h3>
   
@@ -12,7 +12,7 @@
 </div>
 
 <!-- ABOUT ME SECTION - WITH VISUAL ELEMENTS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30px"> IDENTITY MATRIX
+## 🧑‍💻 IDENTITY MATRIX
 
 <table>
   <tr>
@@ -27,13 +27,13 @@
       </ul>
     </td>
     <td width="30%">
-      <img src="https://source.unsplash.com/400x300/?hologram,developer" alt="Developer Visual"/>
+      <img src="https://i.imgur.com/Z9n1y5K.jpg" alt="Developer Visual"/>
     </td>
   </tr>
 </table>
 
 <!-- SKILLS MATRIX - VISUALIZED AS A FUTURISTIC INTERFACE -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30px"> TECH ARSENAL
+## 🛠️ TECH ARSENAL
 
 <div align="center">
   <table>
@@ -50,7 +50,7 @@
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
       </td>
       <td>
-        <img src="https://progress-bar.dev/95/?width=200&color=61DAFB" />
+        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜ 95%
       </td>
     </tr>
     <tr>
@@ -61,7 +61,7 @@
         <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
       </td>
       <td>
-        <img src="https://progress-bar.dev/90/?width=200&color=339933" />
+        ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ 90%
       </td>
     </tr>
     <tr>
@@ -71,7 +71,7 @@
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
       </td>
       <td>
-        <img src="https://progress-bar.dev/85/?width=200&color=47A248" />
+        ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ 85%
       </td>
     </tr>
     <tr>
@@ -81,7 +81,7 @@
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
       </td>
       <td>
-        <img src="https://progress-bar.dev/80/?width=200&color=FF6F00" />
+        ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ 80%
       </td>
     </tr>
     <tr>
@@ -91,14 +91,14 @@
         <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
       </td>
       <td>
-        <img src="https://progress-bar.dev/75/?width=200&color=2496ED" />
+        ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜ 75%
       </td>
     </tr>
   </table>
 </div>
 
 <!-- PROJECTS SHOWCASE - WITH VISUAL CARDS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px"> SIGNATURE PROJECTS
+## 🚀 SIGNATURE PROJECTS
 
 <div align="center">
   <table>
@@ -107,7 +107,7 @@
         <h3 align="center">DeshKriti</h3>
         <p align="center">
           <a href="https://github.com/VanshSharma07/DeshKriti">
-            <img src="https://source.unsplash.com/500x300/?ecommerce,3d,ar" alt="DeshKriti"/>
+            <img src="https://i.imgur.com/Ufnc0c0.jpg" alt="DeshKriti"/>
           </a>
         </p>
         <p>
@@ -128,7 +128,7 @@
         <h3 align="center">ASG Gurukul</h3>
         <p align="center">
           <a href="https://github.com/VanshSharma07/ASG-Gurukul">
-            <img src="https://source.unsplash.com/500x300/?education,learning,inclusive" alt="ASG Gurukul"/>
+            <img src="https://i.imgur.com/wgMjrgR.jpg" alt="ASG Gurukul"/>
           </a>
         </p>
         <p>
@@ -150,33 +150,28 @@
 </div>
 
 <!-- GITHUB STATS - VISUALIZED IN A FUTURISTIC WAY -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30px"> PERFORMANCE METRICS
+## 📊 PERFORMANCE METRICS
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=VanshSharma07&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Vansh's Github Stats"/>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=VanshSharma07&show_icons=true&theme=radical" alt="Vansh's Github Stats"/>
       </td>
       <td width="50%">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=VanshSharma07&theme=radical&hide_border=true&background=0D1117" alt="Vansh's Contribution Stats"/>
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=VanshSharma07&theme=radical" alt="Vansh's Contribution Stats"/>
       </td>
     </tr>
     <tr>
       <td colspan="2">
-        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VanshSharma07&bg_color=0D1117&color=E05397&line=E05397&point=FFFFFF&hide_border=true" alt="Contribution Graph"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSharma07&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Most Used Languages"/>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSharma07&layout=compact&theme=radical" alt="Most Used Languages"/>
       </td>
     </tr>
   </table>
 </div>
 
 <!-- TIMELINE OF CAREER - VISUALIZED -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Done.png" width="30px"> PROFESSIONAL TIMELINE
+## ⏳ PROFESSIONAL TIMELINE
 
 <div align="center">
   <table>
@@ -212,7 +207,7 @@
 </div>
 
 <!-- CONNECT SECTION - WITH FUTURISTIC ELEMENTS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px"> ESTABLISH CONNECTION
+## 🤝 ESTABLISH CONNECTION
 
 <div align="center">
   <a href="https://linkedin.com/in/vansh-bargotra-895371261/">
@@ -230,7 +225,7 @@
 </div>
 
 <div align="center">
-  <img src="https://source.unsplash.com/1600x100/?circuit,neon" alt="Divider"/>
+  <img src="https://i.imgur.com/dkDMeko.jpg" alt="Divider"/>
   <p>📍 <b>LOCATION:</b> Jammu, India</p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=VanshSharma07&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
