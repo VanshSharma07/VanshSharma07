@@ -1,234 +1,199 @@
-<!-- HEADER SECTION -->
+# <div align="center">🚀 VANSH BARGOTRA</div>
+<div align="center"><i>Full-Stack Developer | AI & ML Enthusiast | Tech Innovator</i></div>
+
 <div align="center">
-  <img src="https://i.imgur.com/FeJvB05.jpg" alt="Futuristic Banner"/>
-  <h1>VANSH BARGOTRA</h1>
-  <h3>[ FULL-STACK DEVELOPER | AI & ML SPECIALIST | INNOVATOR ]</h3>
   
-  [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VanshSharma07)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-bargotra-895371261/)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/vanshbargotra07/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://github.com/VanshSharma07)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:portfoliovansh@gmail.com)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=600&lines=Building+the+future%2C+one+commit+at+a+time.;MERN+Stack+Developer;SIH+2024+Winner;AI+%26+ML+Enthusiast;Open+to+new+opportunities)
+
 </div>
 
-<!-- ABOUT ME SECTION - WITH VISUAL ELEMENTS -->
-## 🧑‍💻 IDENTITY MATRIX
+<img src="https://source.unsplash.com/1600x400/?futuristic,cyberpunk,technology" alt="Futuristic Banner" />
 
-<table>
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VanshSharma07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-bargotra-895371261/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/vanshbargotra07/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:portfoliovansh@gmail.com)
+
+</div>
+
+## <div align="center">⚡ Tech Stack & Expertise ⚡</div>
+
+<table align="center">
   <tr>
-    <td width="70%">
-      <ul>
-        <li>🚀 Co-founder & CTO of <b>ASG Gurukul</b> | <i>20,000+ active users</i></li>
-        <li>🏆 Smart India Hackathon 2024 Champion | <i>AI-Powered Diaspora Platform</i></li>
-        <li>🎯 MERN Specialist with expertise in real-time systems architecture</li>
-        <li>🎓 B.E. Computer Engineering | Model Institute of Engineering & Technology</li>
-        <li>🌐 Currently exploring next-gen technologies: <b>FastAPI, Azure, Blockchain</b></li>
-        <li>🔮 Vision: Building intelligent systems that transform human experiences</li>
-      </ul>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      </a>
+      <br>React
     </td>
-    <td width="30%">
-      <img src="https://i.imgur.com/Z9n1y5K.jpg" alt="Developer Visual"/>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+      </a>
+      <br>AWS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      </a>
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+      </a>
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
     </td>
   </tr>
 </table>
 
-<!-- SKILLS MATRIX - VISUALIZED AS A FUTURISTIC INTERFACE -->
-## 🛠️ TECH ARSENAL
-
 <div align="center">
-  <table>
-    <tr>
-      <th>DOMAIN</th>
-      <th>TECHNOLOGIES</th>
-      <th>PROFICIENCY</th>
-    </tr>
-    <tr>
-      <td><b>🌐 Frontend</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-      </td>
-      <td>
-        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜ 95%
-      </td>
-    </tr>
-    <tr>
-      <td><b>⚙️ Backend</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-      </td>
-      <td>
-        ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ 90%
-      </td>
-    </tr>
-    <tr>
-      <td><b>🗄️ Database</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      </td>
-      <td>
-        ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ 85%
-      </td>
-    </tr>
-    <tr>
-      <td><b>🧠 AI & ML</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-      </td>
-      <td>
-        ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ 80%
-      </td>
-    </tr>
-    <tr>
-      <td><b>🔌 DevOps</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-      </td>
-      <td>
-        ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜ 75%
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-profile-trophy.vercel.app/?username=VanshSharma07&theme=radical&no-bg=true&no-frame=true&row=1&column=7" alt="trophy" />
 </div>
 
-<!-- PROJECTS SHOWCASE - WITH VISUAL CARDS -->
-## 🚀 SIGNATURE PROJECTS
+## <div align="center">👨‍💻 About Me</div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">DeshKriti</h3>
-        <p align="center">
-          <a href="https://github.com/VanshSharma07/DeshKriti">
-            <img src="https://i.imgur.com/Ufnc0c0.jpg" alt="DeshKriti"/>
-          </a>
-        </p>
-        <p>
-          <b>AI-powered multivendor marketplace with immersive 3D & AR</b>
-          <br><br>
-          • MERN Stack & Redux architecture<br>
-          • Voice AI assistant for product discovery<br>
-          • Interactive 3D map of India<br>
-          • AR visualization for realistic shopping
-        </p>
-        <p align="center">
-          <a href="https://github.com/VanshSharma07/DeshKriti">
-            <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project"/>
-          </a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">ASG Gurukul</h3>
-        <p align="center">
-          <a href="https://github.com/VanshSharma07/ASG-Gurukul">
-            <img src="https://i.imgur.com/wgMjrgR.jpg" alt="ASG Gurukul"/>
-          </a>
-        </p>
-        <p>
-          <b>Inclusive learning platform with 20,000+ active users</b>
-          <br><br>
-          • Accessibility-first approach for all learners<br>
-          • React.js, Node.js & MongoDB stack<br>
-          • Real-time collaboration features<br>
-          • Optimized API for superior performance
-        </p>
-        <p align="center">
-          <a href="https://github.com/VanshSharma07/ASG-Gurukul">
-            <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge" alt="View Project"/>
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
+  
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+
 </div>
 
-<!-- GITHUB STATS - VISUALIZED IN A FUTURISTIC WAY -->
-## 📊 PERFORMANCE METRICS
+- 🚀 **Co-founder & CTO of ASG Gurukul** - A thriving platform with **20,000+ visitors**
+  
+- 🏆 **Winner of Smart India Hackathon 2024** - Developed an AI-powered Platform for Indian diaspora
+  
+- 🎯 Passionate about **MERN stack, AI, ML, and real-time applications**
+  
+- 🎓 **B.E. in Computer Engineering**, Model Institute of Engineering and Technology, Jammu
+  
+- 📌 Currently exploring **FastAPI, Azure, and Blockchain**
+
+- 🌟 Open to collaborating on innovative projects
+
+<br clear="right"/>
+
+## <div align="center">📊 GitHub Statistics</div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=VanshSharma07&show_icons=true&theme=radical" alt="Vansh's Github Stats"/>
-      </td>
-      <td width="50%">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=VanshSharma07&theme=radical" alt="Vansh's Contribution Stats"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSharma07&layout=compact&theme=radical" alt="Most Used Languages"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- TIMELINE OF CAREER - VISUALIZED -->
-## ⏳ PROFESSIONAL TIMELINE
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="25%"><b>2024</b></td>
-      <td width="75%">
-        <b>• Smart India Hackathon Winner</b><br>
-        Built an AI-powered platform connecting Indian diaspora globally
-      </td>
-    </tr>
-    <tr>
-      <td width="25%"><b>2023-Present</b></td>
-      <td width="75%">
-        <b>• Co-founder & CTO at ASG Gurukul</b><br>
-        Led technical vision and architecture, scaling to 20,000+ users
-      </td>
-    </tr>
-    <tr>
-      <td width="25%"><b>2022-2023</b></td>
-      <td width="75%">
-        <b>• Full-Stack Developer at [Company]</b><br>
-        Developed and maintained scalable web applications using MERN stack
-      </td>
-    </tr>
-    <tr>
-      <td width="25%"><b>2021-2022</b></td>
-      <td width="75%">
-        <b>• Frontend Developer Intern at [Company]</b><br>
-        Created responsive user interfaces with React.js and optimized performance
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- CONNECT SECTION - WITH FUTURISTIC ELEMENTS -->
-## 🤝 ESTABLISH CONNECTION
-
-<div align="center">
-  <a href="https://linkedin.com/in/vansh-bargotra-895371261/">
-    <img height="50" src="https://img.icons8.com/nolan/64/linkedin.png" alt="linkedin"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/VanshSharma07">
-    <img height="50" src="https://img.icons8.com/nolan/64/github.png" alt="github"/>
-  </a>&nbsp;&nbsp;
-  <a href="mailto:portfoliovansh@gmail.com">
-    <img height="50" src="https://img.icons8.com/nolan/64/gmail.png" alt="email"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/vanshbargotra07/">
-    <img height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/64/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="leetcode"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanshSharma07&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSharma07&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/dkDMeko.jpg" alt="Divider"/>
-  <p>📍 <b>LOCATION:</b> Jammu, India</p>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=VanshSharma07&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-  </p>
-  <h3><i>"Engineering the future through code, one innovation at a time."</i></h3>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=VanshSharma07&theme=radical&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
+
+## <div align="center">🚀 Featured Projects</div>
+
+<div align="center">
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">DeshKriti</h3>
+      <div align="center">
+        <a href="https://github.com/VanshSharma07/DeshKriti" target="_blank">
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=VanshSharma07&repo=DeshKriti&theme=react&bg_color=0D1117" alt="DeshKriti" />
+        </a>
+        <p>AI-powered <b>multivendor e-commerce</b> marketplace with <b>3D models & AR integration</b>.</p>
+        <ul align="left">
+          <li>Built using <b>MERN Stack & Redux</b></li>
+          <li>Integrated <b>voice AI assistant</b> for personalized discovery</li>
+          <li><b>3D interactive map of India</b> for cultural products</li>
+          <li><b>AR visualization</b> for realistic shopping experience</li>
+        </ul>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">ASG Gurukul</h3>
+      <div align="center">
+        <a href="https://github.com/VanshSharma07/ASG-Gurukul" target="_blank">
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=VanshSharma07&repo=ASG-Gurukul&theme=react&bg_color=0D1117" alt="ASG Gurukul" />
+        </a>
+        <p>An <b>inclusive learning platform</b> for students, including specially-abled individuals.</p>
+        <ul align="left">
+          <li><b>20,000+ users</b>, empowering education accessibility</li>
+          <li>Developed <b>frontend & backend</b> with <b>React, Node & MongoDB</b></li>
+          <li><b>Optimized API interactions</b> for better performance</li>
+        </ul>
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
+
+## <div align="center">🌐 Activity</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VanshSharma07&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+## <div align="center">📫 Let's Connect!</div>
+
+<div align="center">
+  
+💌 **Email:** portfoliovansh@gmail.com  
+📍 **Location:** Jammu, India  
+🌐 **Website:** [Coming Soon]
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=VanshSharma07&label=PROFILE+VIEWS&style=for-the-badge&color=blue" alt="Profile Views" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
