@@ -7,7 +7,7 @@
 
 </div>
 
-<img src="[https://i.imgur.com/dZlvEkv.png](https://repository-images.githubusercontent.com/841424555/13824a2d-3f73-4eab-b0e1-a9227f22c232)" alt="Futuristic Banner" />
+<img src="https://camo.githubusercontent.com/85ca1a98dd1c4fe2b8b84de4612508468ca4d1c13ab11c4a794f733d37eacfd0/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67" alt="Futuristic Banner" />
 
 <div align="center">
 
