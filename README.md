@@ -112,7 +112,7 @@
 
 </div>
 
-- 🚀 **Co-founder & CTO of ASG Gurukul** - A thriving platform with **20,000+ visitors**
+- 🚀 **SDE Intern - Scorora**
   
 - 🏆 **Winner of Smart India Hackathon 2024** - Developed an AI-powered Platform for Indian diaspora
   
