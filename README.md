@@ -7,7 +7,7 @@
 
 </div>
 
-<img src="https://i.imgur.com/dZlvEkv.png" alt="Futuristic Banner" />
+<img src="[https://i.imgur.com/dZlvEkv.png](https://repository-images.githubusercontent.com/841424555/13824a2d-3f73-4eab-b0e1-a9227f22c232)" alt="Futuristic Banner" />
 
 <div align="center">
 
