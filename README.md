@@ -5,7 +5,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=600&lines=Building+the+future%2C+one+commit+at+a+time.;MERN+Stack+Developer;SIH+2024+Winner;AI+%26+ML+Enthusiast;Open+to+new+opportunities)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=700&lines=Building+the+future%2C+one+commit+at+a+time.;MERN+Stack+Developer;SIH+2024+Winner;AI+%26+ML+Enthusiast;Open+to+new+opportunities)
 
 </div>
 
