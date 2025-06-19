@@ -120,7 +120,7 @@
   
 - 🎓 **B.E. in Computer Engineering**, Model Institute of Engineering and Technology, Jammu
   
-- 📌 Currently exploring **FastAPI, Azure, and Blockchain**
+- 📌 Currently exploring **AI/ML, AWS, Cloud Computing, DevOps and Blockchain**
 
 - 🌟 Open to collaborating on innovative projects
 
