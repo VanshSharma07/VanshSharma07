@@ -91,20 +91,26 @@ REST APIs, Authentication & Authorization, WebSockets, IoT Integration, Performa
 - Secure authentication & authorization (JWT)  
 - React + Tailwind frontend boosting engagement **40%**
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=VanshSharma07&show_icons=true&theme=radical" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSharma07&layout=compact&theme=radical" />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=VanshSharma07&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSharma07&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"
+  />
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=VanshSharma07&theme=radical" />
+  <img
+    width="90%"
+    src="https://github-readme-streak-stats.herokuapp.com?user=VanshSharma07&theme=radical&hide_border=true"
+  />
 </div>
 
----
 
 ## 📫 Let’s Connect
 
